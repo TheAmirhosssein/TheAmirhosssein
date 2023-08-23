@@ -47,6 +47,8 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/postman.svg" title="postman" **alt="Csharp" width="40" height="40"/>
 </div>
 
+---
+
 <p align='left'><img src="https://github-readme-stats.vercel.app/api?username=TheAmirhosssein&show_icons=true&theme=great-gatsby&hide=prs,contribs" alt="pr1266" />
 <br />
 <br />
