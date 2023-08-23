@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/amirhossein-mobini-b75094235/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://t.me/amirhossein_mobini">
+    <a href="https://t.me/TheAmirhosssein">
       <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Youtube Badge"/>
     </a>
     <a href="https://twitter.com/AmirH_Mobini">
@@ -30,7 +30,7 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I read tech articles and books.
 
-- :mailbox:How to reach me: [![Telehram badge](https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/amirhossein_mobini)
+- :mailbox:How to reach me: [![Telehram badge](https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/TheAmirhosssein)
 
 ---
 
@@ -44,7 +44,6 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/postman.svg" title="postman" **alt="Csharp" width="40" height="40"/>
 </div>
 
 ---
