@@ -39,8 +39,7 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,postgresql,sass,git,github,linux,vscode,go)](https://skillicons.dev)
 
 ---
-
-<p align='left'><img src="https://github-readme-stats.vercel.app/api?username=TheAmirhosssein&show_icons=true&theme=great-gatsby&hide=prs,contribs" alt="pr1266" />
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThaAmirhosssein&theme=react&line_height=40&hide=css"/> </a
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmirhosssein&layout=compact&theme=great-gatsby" alt="pr1266" />
