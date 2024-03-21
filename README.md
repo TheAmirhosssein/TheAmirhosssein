@@ -36,5 +36,5 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,mongodb,postgresql,docker,js,mysql,sass,git,github,linux,vscode,go,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,mongodb,postgresql,docker,js,mysql,redis,git,github,linux,vscode,go,html,css)](https://skillicons.dev)
 
