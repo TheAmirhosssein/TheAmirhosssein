@@ -23,7 +23,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+A dedicated back-end developer with an interest in technology. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer and contributing to backend for building applications.
 
 - :seedling: Exploring Technical Content Writing.
