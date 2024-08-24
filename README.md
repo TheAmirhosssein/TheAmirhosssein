@@ -7,7 +7,7 @@
     <a href="https://t.me/TheAmirhosssein">
       <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Youtube Badge"/>
     </a>
-    <a href="https://twitter.com/AmirH_Mobini">
+    <a href="https://twitter.com/im_aech">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
