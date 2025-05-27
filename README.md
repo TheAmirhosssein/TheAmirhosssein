@@ -36,5 +36,5 @@ A dedicated back-end developer with an interest in technology. <img src="https:/
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,django,fastapi,mongodb,postgresql,docker,redis,git,github,rabbitmq,linux,vscode,kafka,elasticsearch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,django,fastapi,mongodb,postgresql,docker,redis,git,github,rabbitmq,linux,vscode,kafka,elasticsearch)](https://skillicons.dev)
 
